@@ -60,8 +60,8 @@ class Remainder extends Component {
         <h2>Other Numbers: </h2>
         <p id="otherNumbersContainer" />
         <h2>
-          Please also open the console to see the appropriat 'Fizzbuzz'
-          messaging per number
+          Please also open the console to see the appropriate 'Fizzbuzz'
+          messaging per number.
         </h2>
       </React.Fragment>
     );
